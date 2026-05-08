@@ -7,7 +7,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-preprint-b31b1b.svg)](https://arxiv.org)
 
 > **Point-Supervised Semantic Segmentation for Remote Sensing Imagery via Partial Focal Cross-Entropy Loss**  
-> *Haris bin Shakeel — 2025*
+> *Haris bin Shakeel — 2026*
 
 ---
 
